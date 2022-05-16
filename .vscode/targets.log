@@ -1,0 +1,362 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.2.1
+# Built for Windows32
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Mon May 16 12:17:18 2022
+
+# Variables
+
+# 'override' directive
+GNUMAKEFLAGS := 
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+MOBAEXTRACTONTHEFLY = yes
+# automatic
+?F = $(notdir $?)
+# environment
+FIRSTTIME = yes
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = pqrR
+# environment
+LC_CTYPE = en_US.UTF-8
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := c:/Users/USER/Desktop/junior2/AUTOCAD/programmingAssignment2/CS3130_PA2
+# environment
+VERSION = 21.3
+# default
+SHELL := sh.exe
+# environment
+CYGWIN = nodosfilewarning glob:ignorecase proc_retry:36 disable_pcon
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+POPUPMODE = no
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+ONEDRIVE = C:\Users\USER\OneDrive
+# environment
+CYGUTILSVERSION = 0
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\USER\AppData\Local\Temp
+# environment
+SYMLINKS = C:/Users/USER/AppData/Local/Temp/Mxt213/
+# environment
+MOBAN 
+OACL = onlyslash
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# makefile (from 'Makefile', line 2)
+RES = src/fm0509.cpp
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+LOCALE = en_US.UTF-8
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c79ff664-d42d-4ab5-8c0b-13cac12c0df1-sock
+# environment
+VSCODE_CWD = C:\Users\USER\Desktop\junior2\AUTOCAD\programmingAssignment2
+# default
+MAKE_HOST := Windows32
+# environment
+PATH = C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Graphviz\bin;C:\ProgramData\chocolatey\bin;C:\cwrsync\bin;C:\Windows\System32\bin\activate;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\GitHub CLI\;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python39\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\USER\.dotnet\tools;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Windows\System32\newenv\bin\activate;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+MOBASTARTUPDIR = 
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+MOBADARKMODE = false
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132843016553033812
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+USERPROFILE = C:\Users\USER
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync load
+# automatic
+%F = $(notdir $%)
+# environment
+DISPLAY = 127.0.0.1:0.0
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_29756_HHPQVDQKUWPBKEGI
+# environment
+TERMNUM = 3
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = DESKTOP-MA229FL
+# environment
+MY_IP_ADDRESS = 192.168.1.106   
+# environment
+PROGRAMFILES = C:\Program Files
+# default
+.LOADED := 
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = USER
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+CYGARCH = 32
+# environment
+LD_LIBRARY_PATH = /bin
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\USER\AppData\Roaming\Code\CachedData\da15b6fd3ef856477bf6f4fb29ba1b7af717770d
+# environment
+EXPORTED_DISPLAY = 192.168.1.106:0.0  
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# environment
+LOGONSERVER = \\DESKTOP-MA229FL
+# environment
+CMDPATH = C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Graphviz\bin;C:\ProgramData\chocolatey\bin;C:\cwrsync\bin;C:\Windows\System32\bin\activate;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\GitHub CLI\;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python39\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\USER\.dotnet\tools;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Windows\System32\newenv\bin\activate;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;;C:\WINDOWS\sysnative\;C:\Users\USER\AppData\Local\Temp\Mxt213\bin
+# environment
+ONEDRIVECONSUMER = C:\Users\USER\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DESKTOP-MA229FL
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 4.2.1
+# makefile
+.DEFAULT_GOAL := all
+# automatic
+<F = $(notdir $<)
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+CURRENT_USER_NAME = user                
+# environment
+LOCALAPPDATA = C:\Users\USER\AppData\Local
+# environment
+MY_COMPUTER_NAME = DESKTOP-MA229FL    
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PUTTYTMP = C:\Users\USER\AppData\Local\Temp\Mxt213\tmp
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+LANGUAGE = en_US.UTF-8
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\6f7f7439a076c1dd521200c06694e730-1.67.1-main-sock
+# environment
+HOMEPATH = \Users\USER
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\USER\AppData\Roaming
+# environment
+PROMPT_TYPE = 2
+# environment
+TEMP = C:\Users\USER\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+WINPATH = C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Program Files\MATLAB\R2021a\runtime\win64;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Graphviz\bin;C:\ProgramData\chocolatey\bin;C:\cwrsync\bin;C:\Windows\System32\bin\activate;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\GitHub CLI\;C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python39\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\USER\.dotnet\tools;C:\MinGW\bin;C:\Users\USER\AppData\Roaming\Python\Python38\Scripts;C:\Windows\System32\newenv\bin\activate;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Users\USER\Desktop\avr-gcc-11.1.0-x64-windows\bin;;C:\WINDOWS\sysnative\
+# environment
+X_ONLY_LOCAL = 
+# environment
+LC_ALL = C
+# environment
+PUTTYHOME = C:\Users\USER\AppData\Local\Temp\Mxt213\tmp\home_user
+# environment
+CONFIGSETROOT = C:\WINDOWS\ConfigSetRoot
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 7e05
+# environment
+DWMMODE = no
+# default
+.INCLUDE_DIRS = .
+# default
+.RECIPEPREFIX := 
+# makefile (from 'Makefile', line 3)
+EXE = pa2
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 29756
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-MA229FL
+# variable set hash-table stats:
+# Load=129/1024=13%, Rehash=0, Collisions=20/154=13%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key c:/Users/USER/Desktop/junior2/AUTOCAD/programmingAssignment2/CS3130_PA2, mtime 1652674612): 15 files, no impossibilities.
+
+# 15 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := all
+# automatic
+# % := 
+# automatic
+# * := 
+# automatic
+# + := 
+# automatic
+# | := 
+# automatic
+# < := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  recipe to execute (from 'Makefile', line 5):
+	g++ -std=c++14 src/fm0509.cpp -o pa2 -O3
+	g++ -std=c++14 src/verifier.cpp -o ver -O2
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-16 12:13:38
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 8):
+	rm $(EXE)
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/17=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 19 / storage = 140 B / avg = 7 B
+# current buf: size = 8162 B / used = 140 B / count = 19 / avg = 7 B
+
+# strcache performance: lookups = 27 / hit rate = 29%
+# hash-table stats:
+# Load=19/8192=0%, Rehash=0, Collisions=1/27=4%
+# Finished Make data base on Mon May 16 12:17:18 2022
+
+ 
