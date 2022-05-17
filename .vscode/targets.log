@@ -6,7 +6,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon May 16 12:17:18 2022
+# Make data base, printed on Tue May 17 18:18:48 2022
 
 # Variables
 
@@ -69,8 +69,7 @@ TMP = C:\Users\USER\AppData\Local\Temp
 # environment
 SYMLINKS = C:/Users/USER/AppData/Local/Temp/Mxt213/
 # environment
-MOBAN 
-OACL = onlyslash
+MOBANOACL = onlyslash
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # makefile (from 'Makefile', line 2)
@@ -82,7 +81,7 @@ LOCALE = en_US.UTF-8
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c79ff664-d42d-4ab5-8c0b-13cac12c0df1-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-7b79d4eb-469e-4387-a365-1e9a89e552bc-sock
 # environment
 VSCODE_CWD = C:\Users\USER\Desktop\junior2\AUTOCAD\programmingAssignment2
 # default
@@ -120,9 +119,9 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 DISPLAY = 127.0.0.1:0.0
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_29756_HHPQVDQKUWPBKEGI
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11820_RCZVBIPRMNLTELPI
 # environment
-TERMNUM = 3
+TERMNUM = 17
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -152,7 +151,7 @@ VSCODE_CODE_CACHE_PATH = C:\Users\USER\AppData\Roaming\Code\CachedData\da15b6fd3
 # environment
 EXPORTED_DISPLAY = 192.168.1.106:0.0  
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 COMMONPROGRAMFILES = C:\Program Files\Common Files
 # environment
@@ -266,7 +265,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 29756
+VSCODE_PID = 11820
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-MA229FL
 # variable set hash-table stats:
@@ -278,9 +277,9 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-MA229FL
 
 # Directories
 
-# . (key c:/Users/USER/Desktop/junior2/AUTOCAD/programmingAssignment2/CS3130_PA2, mtime 1652674612): 15 files, no impossibilities.
+# . (key c:/Users/USER/Desktop/junior2/AUTOCAD/programmingAssignment2/CS3130_PA2, mtime 1652674924): 13 files, no impossibilities.
 
-# 15 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -351,12 +350,12 @@ clean:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 19 / storage = 140 B / avg = 7 B
-# current buf: size = 8162 B / used = 140 B / count = 19 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 17 / storage = 121 B / avg = 7 B
+# current buf: size = 8162 B / used = 121 B / count = 17 / avg = 7 B
 
-# strcache performance: lookups = 27 / hit rate = 29%
+# strcache performance: lookups = 25 / hit rate = 32%
 # hash-table stats:
-# Load=19/8192=0%, Rehash=0, Collisions=1/27=4%
-# Finished Make data base on Mon May 16 12:17:18 2022
+# Load=17/8192=0%, Rehash=0, Collisions=1/25=4%
+# Finished Make data base on Tue May 17 18:18:48 2022
 
  
